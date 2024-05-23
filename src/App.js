@@ -1,11 +1,11 @@
 import Banniere from "./components/Banniere";
 import root from "./App.module.css"
-import Video from "./components/Video";
+import VideoSection from "./components/VideoSection";
 function App() {
   return (
     <>
     <Banniere />
-    <Video />
+    <VideoSection />
     </>
   );
 }

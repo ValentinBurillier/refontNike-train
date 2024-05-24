@@ -1,0 +1,20 @@
+#secondSection {
+  width: 90%;
+  margin: auto;
+}
+.title2 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: normal;
+}
+#secondSection img{
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+}
+#secondSection button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  text-align: center;
+  width: 100%;
+}

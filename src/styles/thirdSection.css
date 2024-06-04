@@ -1,4 +1,4 @@
-#thirdSection {
+#thirdSection, #fourthSection {
   width: 90%;
   margin: auto;
 }
@@ -7,18 +7,18 @@
   margin-bottom: 1.5rem;
   font-weight: normal;
 }
-#thirdSection .container__shoes{
+#thirdSection .container__shoes, #fourthSection .container__shoes{
   position: relative;
   max-width: 100%;
 }
 
-#thirdSection img{
+#thirdSection img, #fourthSection img{
   max-width: 100%;
   height: 300px;
   width: 300px;
 }
 
-#thirdSection button {
+#thirdSection button, #fourthSection button {
   background: white;
   padding: 10px;
   border-radius: 40%;
